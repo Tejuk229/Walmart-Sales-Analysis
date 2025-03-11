@@ -1,4 +1,4 @@
-# Walmart Data Analysis: End-to-End SQL + Python Project P-9
+#  "Walmart Sales Analysis | SQL + Python | End-to-End Data Pipeline" P-9
 
 ## Project Overview
 
